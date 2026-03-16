@@ -13,7 +13,7 @@
 ###
 
 <div align="left">
-  <a href="www.linkedin.com/in/náthally-rodrigues-da-silva-gavião-64629a326" target="_blank">
+  <a href="https://www.linkedin.com/in/n%C3%A1thally-rodrigues-da-silva-gavi%C3%A3o-64629a326/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/gaviaonathally/" target="_blank">
