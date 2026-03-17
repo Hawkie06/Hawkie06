@@ -16,10 +16,10 @@
   <a href="https://www.linkedin.com/in/n%C3%A1thally-rodrigues-da-silva-gavi%C3%A3o-64629a326/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="32" alt="linkedin logo"  />
   </a>
-  <a href="mailto:gaviaonathally2006@gmail.com" target="_blank" rel="noopener noreferrer>
+  <a href="https://www.instagram.com/gaviaonathally/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="32" alt="instagram logo"  />
   </a>
-  <a href="gaviaonathally2006@gmail.com" target="_blank">
+  <a href="mailto:exemplo@email.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="32" alt="gmail logo"  />
   </a>
 </div>
