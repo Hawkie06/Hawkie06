@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="left">Hi, I´m Náthally!</h1>
+<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Oi%2C+eu+sou+a+Náthally!;Bem-vindo+ao+meu+GitHub+💖;Amo+programar+e+aprender!" />
 
 ###
 
@@ -48,10 +48,17 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Hawkie06/Hawkie06/output/pacman-contribution-graph.svg">
 </picture>
 
+
+
 ###
 
+ <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hawkie06&theme=dracula" />
+</div>
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Hawkie06&theme=dracula" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hawkie06&theme=dracula" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hawkie06&theme=dracula" height="150"/>
 </div>
 
 ###
