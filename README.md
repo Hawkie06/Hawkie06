@@ -1,8 +1,5 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Hi%2C+I'm+Náthally!;Welcome+to+my+GitHub+💖;I+love+programming+and+learning!" />
 
-###
-
-<img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Oi%2C+eu+sou+a+Náthally!;Bem-vindo+ao+meu+GitHub+💖;Amo+programar+e+aprender!" />
 
 ###
 
