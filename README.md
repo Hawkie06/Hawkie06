@@ -57,3 +57,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Code-Lover-ffb6c1?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Coffee-Addict-ffc0cb?style=for-the-badge&logo=buymeacoffee"/>
+  <img src="https://img.shields.io/badge/Always-Learning-ff69b4?style=for-the-badge"/>
+</div> 
