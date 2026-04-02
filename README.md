@@ -1,3 +1,4 @@
+<img src="./twitter%20header%20❤️_🔥.jpg" width="100%" />
 <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&center=true&vCenter=true&lines=Hi%2C+I'm+Náthally!;Welcome+to+my+GitHub+💖;I+love+programming+and+learning!" />
 
 ###
