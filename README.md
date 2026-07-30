@@ -12,17 +12,16 @@
 
   <br>
 
-  <h3>🚀 Complete Web Frontend Course</h3>
-  <p>HTML, CSS, JavaScript, TypeScript, React and Next.js (2026)</p>
-
   <h4>🧠 What I'm learning:</h4>
   <ul>
-    <li>HTML5 and page structure</li>
-    <li>CSS3 (Flexbox, Grid, responsive design)</li>
-    <li>JavaScript</li>
-    <li>TypeScript</li>
-    <li>React</li>
-    <li>Next.js</li>
+      <li>POO</li>
+      <li>JDBC</li>
+      <li>JavaFX</li>
+      <li>Spring Boot</li>
+      <li>JPA / Hibernate</li>
+      <li>Maven</li>
+      <li>Spring Data JPA</li>
+      <li>Spring Data MongoDB</li>
   </ul>
 </details>
 
