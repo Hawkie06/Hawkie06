@@ -66,17 +66,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hawkie06&theme=dracula" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hawkie06&theme=dracula" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hawkie06&theme=dracula" height="150"/>
-</div>
-
-###
-
-<div align="center">
   <img src="https://img.shields.io/badge/Code-Lover-ffb6c1?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/Coffee-Addict-ffc0cb?style=for-the-badge&logo=buymeacoffee"/>
   <img src="https://img.shields.io/badge/Always-Learning-ff69b4?style=for-the-badge"/>
