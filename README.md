@@ -5,25 +5,6 @@
 
 <h3 align="left">I'm a Software Engineering student at Unifil. I'm interested in front-end and back-end development.</h3>
 
-###
-
-<details>
-  <summary>📚 Currently Studying</summary>
-
-  <br>
-
-  <h4>🧠 What I'm learning:</h4>
-  <ul>
-      <li>POO</li>
-      <li>JDBC</li>
-      <li>JavaFX</li>
-      <li>Spring Boot</li>
-      <li>JPA / Hibernate</li>
-      <li>Maven</li>
-      <li>Spring Data JPA</li>
-      <li>Spring Data MongoDB</li>
-  </ul>
-</details>
 
 ###
 
@@ -40,7 +21,6 @@
 </div>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
   <img width="12" />
@@ -53,9 +33,40 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-</div>
+  <img width="12" />
 
-###
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" />
+  <img width="12" />
+
+ 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" height="40" />
+  <img width="12" />
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" />
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" />
+  <img width="12" />
+  <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="40" />
+</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hawkie06/Hawkie06/output/pacman-contribution-graph-dark.svg">
