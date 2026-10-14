@@ -5,7 +5,6 @@
 
 <h3 align="left">Software Engineering student at Unifil | AI Intern at TCS | Interested in Full-Stack Development, Machine Learning, and Data Science.</h3>
 
-
 ###
 
 <div align="left">
@@ -17,6 +16,9 @@
   </a>
   <a href="mailto:SEU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-E8A0BF?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email" />
+  </a>
+  <a href="https://sites.google.com/edu.unifil.br/portflionthallygavio/in%C3%ADcio" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-D8B4FE?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
 </div>
 
@@ -66,7 +68,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hawkie06/Hawkie06/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/Hawkie06/Hawkie06/output/pacman-contribution-graph.svg" />
 </picture>
-
 
 ###
 
