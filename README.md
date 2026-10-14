@@ -3,7 +3,7 @@
 
 ###
 
- <h3 align="left">Software Engineering student at Unifil | Software Engineering Intern at TCS | Interested in Full-Stack Development, Machine Learning, and Data Science.</h3>
+<h3 align="left">Software Engineering student at Unifil | AI Intern at TCS | Interested in Full-Stack Development, Machine Learning, and Data Science.</h3>
 
 
 ###
