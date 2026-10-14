@@ -70,11 +70,11 @@
 
 ###
 
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hawkie06/Hawkie06/main/HackerCat.gif" width="200" alt="Hacker Cat" />
+<img src="./HackerCat.gif" width="200" alt="Hacker Cat" />
 </div>
 
+###
 
 <div align="center">
   <img src="https://img.shields.io/badge/Code-Lover-ffb6c1?style=for-the-badge&logo=github"/>
